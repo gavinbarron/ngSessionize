@@ -14,7 +14,7 @@ module.exports = {
 		 tempstyle: "./client/styles/tempstyle.scss"*/
 	},
 	output: {
-		path: '/WebstormProjects/ngSessionize/build/',
+		path: '/dev/ngSessionize/build/',
 		filename: "[name].js",
 		publicPath: '/'
 	},
